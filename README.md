@@ -8,22 +8,22 @@ Below are the available commands for managing the bot:
 
 ### **Commands**
 
-- **${PREFIX}set-channel-sub** 📺  
+- **set-channel-sub** 📺  
   Set the channel for subscription verification.
   
-- **${PREFIX}set-role-sub** 🛡️  
+- **set-role-sub** 🛡️  
   Set the role for subscribers.
   
-- **${PREFIX}set-youtube-channel-name** 🎥  
+- **set-youtube-channel-name** 🎥  
   Set the YouTube channel name for subscription verification.
   
-- **${PREFIX}set-name** 🏷️  
+- **set-name** 🏷️  
   Set the bot name.
   
-- **${PREFIX}set-avatar** 🖼️  
+- **set-avatar** 🖼️  
   Set the bot avatar.
   
-- **${PREFIX}set-banner** 🏞️  
+- **set-banner** 🏞️  
   Set the bot banner.
 
 ## Features
