@@ -35,10 +35,14 @@ Below are the available commands for managing the bot:
   The bot allows you to set the channel, role, and even the bot's name, avatar, and banner to match your preferences.
 
 ## Setup
-
-1. Use the command `${PREFIX}set-youtube-channel-name` to specify the YouTube channel for subscription verification.
-2. Use the command `${PREFIX}set-channel-sub` to set the channel where users will interact with the bot.
-3. Use the command `${PREFIX}set-role-sub` to set the role that subscribers will receive upon verification.
+1. Make File .env and add content 
+```
+    TOKEN=
+    PREFIX=
+```
+2. Use the command `${PREFIX}set-youtube-channel-name` to specify the YouTube channel for subscription verification.
+3. Use the command `${PREFIX}set-channel-sub` to set the channel where users will interact with the bot.
+4. Use the command `${PREFIX}set-role-sub` to set the role that subscribers will receive upon verification.
 
 ## Requirements
 
